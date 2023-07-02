@@ -25,7 +25,7 @@ Link da fonte: https://tinyurl.com/22uxj27e
 | Dado 10.1 | Dado 10.2 | Dado 10.3 | Dado 10.4 |
 | Valor Total| Dado 11.2 | Dado 11.3 | Dado 11.4 |
 
-### Função dos componentes
+## Função dos componentes
 
 - Fonte de corrente alternada: Simula a tensão da rede elétrica com 127V, 60Hz e 180V de pico.
 - Transformador: Reduz a tensão da rede para uma faixa de 3V a 12V, conforme necessário.
