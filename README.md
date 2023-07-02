@@ -25,6 +25,18 @@ O projeto consiste no desenvolvimento de uma fonte de tensão ajustável de 3V �
 ![circuit-20230702-1107](https://github.com/J-carvalho17/Fonte-de-tensao/assets/129186293/d1ef9827-de2a-48d0-a5c0-5733c3d0efd0)
 Link da fonte: https://tinyurl.com/22uxj27e
 
+### Função dos componentes
+
+- Fonte de corrente alternada: Simula a tensão da rede elétrica com 127V, 60Hz e 180V de pico.
+- Transformador: Reduz a tensão da rede para uma faixa de 3V a 12V, conforme necessário.
+- Ponte Retificadora: Converte corrente alternada em corrente contínua para alimentar o circuito.
+- Capacitor: Armazena carga elétrica durante os ciclos da corrente alternada, fornecendo corrente quando necessário.
+- Diodo Zener: Regula a tensão do circuito, conduzindo corrente apenas quando a tensão atinge um determinado valor (13V).
+- Potenciômetro: Resistor ajustável que controla a tensão dentro do circuito entre 3V e 12V.
+- Transistor: Amplifica ou interrompe a corrente elétrica, podendo funcionar como um amplificador ou interruptor.
+- Resistores: Limitam a passagem de corrente em locais específicos do circuito.
+- LED: Componente que emite luz quando uma corrente elétrica passa por ele, utilizado como indicador luminoso.
+
 ## Alunos
 
 - Julia de Almeida Carvalho - Nº USP: 13713184
