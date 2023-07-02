@@ -1,8 +1,8 @@
-## Projeto Fonte-de-tensao
+# Projeto Fonte-de-tensao
 
 Projeto realizado no primeiro semestre do curso de Bacharelado em Ciências de Computação, para a disciplina de "Eletrônica Digital", ministrada pelo professor Eduardo do Valle Simões, da Universidade de São Paulo (USP) - Campus de São Carlos.
 
-# Objetivo do Projeto
+### Objetivo do Projeto
 O projeto consiste no desenvolvimento de uma fonte de tensão ajustável de 3V á 12V com capacidade de 100mA.
 
 ## Componentes Utilizados
