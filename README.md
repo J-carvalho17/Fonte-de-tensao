@@ -17,3 +17,8 @@ Projeto realizado no primeiro semestre do curso de Bacharelado em Ciências de C
 | Dado 10.1 | Dado 10.2 | Dado 10.3 | Dado 10.4 |
 | Valor Total| Dado 11.2 | Dado 11.3 | Dado 11.4 |
 
+## Diagrama da Fonte de Tensão
+
+![circuit-20230702-1107](https://github.com/J-carvalho17/Fonte-de-tensao/assets/129186293/d1ef9827-de2a-48d0-a5c0-5733c3d0efd0)
+Link da fonte: https://tinyurl.com/22uxj27e
+
