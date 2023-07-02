@@ -1,5 +1,6 @@
 ## Fonte-de-tensao
-Eletronica - Projeto I
+
+Projeto realizado no primeiro semestre do curso de Bacharelado em Ciências de Computação, para a disciplina de "Eletrônica Digital", ministrada pelo professor Eduardo do Valle Simões, da Universidade de São Paulo (USP) - Campus de São Carlos.
 
 ## Componentes Utilizados
 | Quantidade | Componentes | Especificações | Valor |
