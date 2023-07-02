@@ -22,3 +22,10 @@ Projeto realizado no primeiro semestre do curso de Bacharelado em Ciências de C
 ![circuit-20230702-1107](https://github.com/J-carvalho17/Fonte-de-tensao/assets/129186293/d1ef9827-de2a-48d0-a5c0-5733c3d0efd0)
 Link da fonte: https://tinyurl.com/22uxj27e
 
+## Alunos
+
+- Julia de Almeida Carvalho - Nº USP: 13713184
+- Kaylaine Bessa da Silva - Nº USP:14747506
+- Giovanna Lopes de Andrade - Nº USP:14574772
+
+
