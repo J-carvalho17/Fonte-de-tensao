@@ -13,7 +13,7 @@ Link da fonte: https://tinyurl.com/22uxj27e
 ## Componentes Utilizados
 | Componentes | Quantidade | Valor |
 | -------- | -------- | -------- | 
-| Transformador |1|R$|
+| Transformador |1|Utilizado transformador do laboratório|
 | Ponte de Diodos |1|R$7,76 |
 | Capacitor 1mF |1|R$0,49 |
 | Diodo Zener 13V |1|R$0,47 |
