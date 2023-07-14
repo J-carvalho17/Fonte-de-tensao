@@ -21,9 +21,9 @@ Link da fonte: https://tinyurl.com/22uxj27e
 | LED |1|R$0,49|
 | Fusível 1A|1|R$1,07|
 | Resistência 1.5k |1|R$0,70|
-| Resistência 3.3k |1|R$|
+| Resistência 3.3k |1|R$0,70|
 | Resistência 4.7k |2|R$0,70 |
-| Resistência 100 ohms |1|R$ |
+| Resistência 100 ohms |1|R$0,70 |
 | Transistor NPN |1|R$1,55 |
 | Fio macho-macho |2|R$13,58|
 | Valor Total||R$38,18 |
