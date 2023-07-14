@@ -50,7 +50,7 @@ Link da fonte: https://tinyurl.com/22uxj27e
   
 - Fio macho-macho: Utilizado para conectar dispositivos eletrônicos com portas do mesmo tipo.
 
-## Projeto esquemáticdo PCB desenvolvido no ambiente Software Eagle
+## Projeto esquemático do PCB desenvolvido no ambiente Software Eagle
 
 
 ## Vídeo do Falstad
