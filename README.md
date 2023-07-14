@@ -6,7 +6,7 @@ Projeto realizado no primeiro semestre do curso de Bacharelado em Ciências de C
 O projeto consiste no desenvolvimento de uma fonte de tensão ajustável de 3V á 12V com capacidade de 100mA.
 
 ## Diagrama da Fonte de Tensão
-![Circuito-Falstad.txt](https://github.com/J-carvalho17/Fonte-de-tensao/files/12051662/Circuito-Falstad.png)
+![circuit-20230714-1212](https://github.com/J-carvalho17/Fonte-de-tensao/assets/129186293/2813c8f2-4c24-4e74-9f50-1223d9e00817)
 Link da fonte: https://tinyurl.com/24qld2v9
 
 ## Componentes Utilizados
