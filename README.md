@@ -54,7 +54,7 @@ Link da fonte: https://tinyurl.com/2nysz2r7
 
 ## Foto do circuito no simulador Tinkercad
 ![52e3c28f-1aad-4d49-8716-aad8e44a1046](https://github.com/J-carvalho17/Fonte-de-tensao/assets/129186293/cb45c7b3-61ed-4420-bc4d-660f4920b9f0)
-Link para o circuito no Tinkercad: https://www.tinkercad.com/login?next=%2Fthings%2Fln1pL3pesr1
+Link para o circuito: https://www.tinkercad.com/login?next=%2Fthings%2Fln1pL3pesr1
 ## Vídeo do Falstad
 
 ## Alunos
