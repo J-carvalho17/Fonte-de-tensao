@@ -19,7 +19,7 @@ Link da fonte: https://tinyurl.com/22uxj27e
 | Diodo Zener | Dado 4.2 |Dado 4.4 |
 | Potenciômetro | Dado 5.2 | Dado 5.4 |
 | LED | Dado 6.2 | Dado 6.3 | Dado 6.4 |
-| Fusível 1A |1| Dado 7.3 | Dado 7.4 |
+| Fusível 1A |1| Dado 7.4 |
 | Resistência 1.5k | Dado 8.2 | Dado 8.4 |
 | Resistência 3.3k | Dado 8.2 | Dado 8.4 |
 | Resistência 4.7k | Dado 8.2 | Dado 8.4 |
