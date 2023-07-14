@@ -57,7 +57,7 @@ Link da fonte: https://tinyurl.com/22uxj27e
 
 | Nome                      | Nº USP     |
 |---------------------------|------------|
-| Júlia de Almeida Carvalho | 13713184   |
+| Julia de Almeida Carvalho | 13713184   |
 | Kaylaine Bessa da Silva   | 14747506   |
 | Giovanna Lopes de Andrade | 14574772   |
 
