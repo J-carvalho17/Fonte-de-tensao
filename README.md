@@ -14,7 +14,7 @@ Link da fonte: https://tinyurl.com/2nysz2r7
 | -------- | -------- | -------- | 
 | Transformador |1|Utilizado transformador do laboratório|
 | Ponte de Diodos |1|R$7,76 |
-| Capacitor 1mF |1|R$0,49 |
+| Capacitor 680uF |1|R$0,49 |
 | Diodo Zener 13V |1|R$0,47 |
 | Potenciômetro |1|R$6,79 |
 | LED |1|R$0,49|
