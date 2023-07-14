@@ -60,6 +60,9 @@ Link para o circuito: https://www.tinkercad.com/login?next=%2Fthings%2Fln1pL3pes
 ## Foto do circuito real
 ![Foto-circuito-real](https://github.com/J-carvalho17/Fonte-de-tensao/assets/129186293/98614a7f-b72a-4fab-95d3-6bc5e32b9528)
 
+## Cálculo Ripple
+![calculo_ripple](https://github.com/J-carvalho17/Fonte-de-tensao/blob/main/Imagens/calculo_ripple.jpg?raw=true)
+
 ## Link do vídeo do falstad: https://youtu.be/GGDy0qySHs0 
 ## Link do vídeo da fonte: https://youtu.be/GYnvCqscRd8
 
