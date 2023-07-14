@@ -14,19 +14,19 @@ Link da fonte: https://tinyurl.com/22uxj27e
 | Componentes | Quantidade | Valor |
 | -------- | -------- | -------- | 
 | Transformador |1|R$|
-| Ponte de Diodos | Dado 2.2 |  R$ |
-| Capacitor | Dado 3.2 |  R$ |
-| Diodo Zener | Dado 4.2 | R$ |
-| Potenciômetro | Dado 5.2 |  R$ |
-| LED | Dado 6.2 | Dado 6.3 |  R$ |
+| Ponte de Diodos |1|R$7,76 |
+| Capacitor 1mF | Dado 3.2 |R$0,49 |
+| Diodo Zener 13V | Dado 4.2 |R$0,47 |
+| Potenciômetro |1|R$6,79 |
+| LED |1|R$0,49|
 | Fusível 1A|1|R$1,07|
-| Resistência 1.5k | Dado 8.2 |  R$ |
-| Resistência 3.3k | Dado 8.2 |  R$ |
-| Resistência 4.7k | Dado 8.2 |  R$ |
-| Resistência 100 ohms | Dado 8.2 |  R$ |
-| Transistor NPN | Dado 9.2 |  R$ |
-| Fio macho-macho | Dado 10.2 | R$ |
-| Valor Total| Dado 11.2 |  R$ |
+| Resistência 1.5k |1|R$0,70|
+| Resistência 3.3k |1|R$|
+| Resistência 4.7k |2|R$0,70 |
+| Resistência 100 ohms |1|R$ |
+| Transistor NPN |1|R$1,55 |
+| Fio macho-macho |2|R$13,58|
+| Valor Total||R$38,18 |
 
 ## Função dos componentes
 
