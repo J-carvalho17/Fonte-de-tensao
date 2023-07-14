@@ -8,7 +8,7 @@ O projeto consiste no desenvolvimento de uma fonte de tensão ajustável de 3V �
 ## Diagrama da Fonte de Tensão
 
 ![circuit-20230702-1107](https://github.com/J-carvalho17/Fonte-de-tensao/assets/129186293/d1ef9827-de2a-48d0-a5c0-5733c3d0efd0)
-Link da fonte: https://tinyurl.com/22uxj27e
+Link da fonte: https://tinyurl.com/24qld2v9
 
 ## Componentes Utilizados
 | Componentes | Quantidade | Valor |
