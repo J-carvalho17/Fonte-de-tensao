@@ -52,6 +52,9 @@ Link da fonte: https://tinyurl.com/2nysz2r7
 ## Projeto esquemático do PCB desenvolvido no ambiente Software Eagle
 
 
+## Foto do circuito no simulador Tinkercad
+![52e3c28f-1aad-4d49-8716-aad8e44a1046](https://github.com/J-carvalho17/Fonte-de-tensao/assets/129186293/cb45c7b3-61ed-4420-bc4d-660f4920b9f0)
+
 ## Vídeo do Falstad
 
 ## Alunos
