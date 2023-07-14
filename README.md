@@ -31,12 +31,16 @@ Link da fonte: https://tinyurl.com/22uxj27e
 ## Função dos componentes
 
 - Fonte de corrente alternada: Simula a tensão da rede elétrica com 127V, 60Hz e 180V de pico.
+
   
 - Transformador: Reduz a tensão da rede para uma faixa de 3V a 12V, conforme necessário.
+
   
 - Ponte Retificadora: Converte corrente alternada em corrente contínua para alimentar o circuito.
+
   
 - Capacitor: Armazena carga elétrica durante os ciclos da corrente alternada, fornecendo corrente quando necessário.
+
   
 - Diodo Zener: Regula a tensão do circuito, conduzindo corrente apenas quando a tensão atinge um determinado valor (13V).
   
