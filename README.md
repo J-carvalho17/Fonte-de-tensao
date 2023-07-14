@@ -50,7 +50,7 @@ Link da fonte: https://tinyurl.com/2nysz2r7
 - Fio macho-macho: Utilizado para conectar dispositivos eletrônicos com portas do mesmo tipo.
 
 ## Projeto esquemático do PCB desenvolvido no ambiente Software Eagle
-
+![eagle_fonte](https://github.com/J-carvalho17/Fonte-de-tensao/blob/main/Imagens/eagle_fonte.png?raw=true)
 
 ## Foto do circuito no simulador Tinkercad
 ![52e3c28f-1aad-4d49-8716-aad8e44a1046](https://github.com/J-carvalho17/Fonte-de-tensao/assets/129186293/cb45c7b3-61ed-4420-bc4d-660f4920b9f0)
