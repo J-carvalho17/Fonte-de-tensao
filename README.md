@@ -19,7 +19,7 @@ Link da fonte: https://tinyurl.com/22uxj27e
 | Diodo Zener | Dado 4.2 | R$ |
 | Potenciômetro | Dado 5.2 |  R$ |
 | LED | Dado 6.2 | Dado 6.3 |  R$ |
-| Fusível 1A |  1 | R$1,07 |
+| Fusível 1A |1| R$1,07 |
 | Resistência 1.5k | Dado 8.2 |  R$ |
 | Resistência 3.3k | Dado 8.2 |  R$ |
 | Resistência 4.7k | Dado 8.2 |  R$ |
