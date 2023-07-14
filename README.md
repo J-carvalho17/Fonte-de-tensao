@@ -11,19 +11,22 @@ O projeto consiste no desenvolvimento de uma fonte de tensão ajustável de 3V �
 Link da fonte: https://tinyurl.com/22uxj27e
 
 ## Componentes Utilizados
-| Quantidade | Componentes | Especificações | Valor |
-| -------- | -------- | -------- | -------- |
-| Transformador | Dado 1.2 | Dado 1.3 | Dado 1.4 |
-| Ponte de Diodos | Dado 2.2 | Dado 2.3 | Dado 2.4 |
-| Capacitor | Dado 3.2 | Dado 3.3 | Dado 3.4 |
-| Diodo Zener | Dado 4.2 | Dado 4.3 | Dado 4.4 |
-| Potenciômetro | Dado 5.2 | Dado 5.3 | Dado 5.4 |
+| Componentes | Quantidade | Valor |
+| -------- | -------- | -------- | 
+| Transformador | Dado 1.2 | Dado 1.4 |
+| Ponte de Diodos | Dado 2.2 | Dado 2.4 |
+| Capacitor | Dado 3.2 | Dado 3.4 |
+| Diodo Zener | Dado 4.2 |Dado 4.4 |
+| Potenciômetro | Dado 5.2 | Dado 5.4 |
 | LED | Dado 6.2 | Dado 6.3 | Dado 6.4 |
-| Dado 7.1 | Dado 7.2 | Dado 7.3 | Dado 7.4 |
-| Dado 8.1 | Dado 8.2 | Dado 8.3 | Dado 8.4 |
-| Dado 9.1 | Dado 9.2 | Dado 9.3 | Dado 9.4 |
-| Dado 10.1 | Dado 10.2 | Dado 10.3 | Dado 10.4 |
-| Valor Total| Dado 11.2 | Dado 11.3 | Dado 11.4 |
+| Fusível 1A |1| Dado 7.3 | Dado 7.4 |
+| Resistência 1.5k | Dado 8.2 | Dado 8.4 |
+| Resistência 3.3k | Dado 8.2 | Dado 8.4 |
+| Resistência 4.7k | Dado 8.2 | Dado 8.4 |
+| Resistência 100 ohms | Dado 8.2 | Dado 8.4 |
+| Transistor NPN | Dado 9.2 | Dado 9.4 |
+| Fio macho-macho | Dado 10.2 |Dado 10.4 |
+| Valor Total| Dado 11.2 | Dado 11.4 |
 
 ## Função dos componentes
 
