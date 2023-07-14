@@ -15,8 +15,8 @@ Link da fonte: https://tinyurl.com/22uxj27e
 | -------- | -------- | -------- | 
 | Transformador |1|R$|
 | Ponte de Diodos |1|R$7,76 |
-| Capacitor 1mF | Dado 3.2 |R$0,49 |
-| Diodo Zener 13V | Dado 4.2 |R$0,47 |
+| Capacitor 1mF |1|R$0,49 |
+| Diodo Zener 13V |1|R$0,47 |
 | Potenciômetro |1|R$6,79 |
 | LED |1|R$0,49|
 | Fusível 1A|1|R$1,07|
