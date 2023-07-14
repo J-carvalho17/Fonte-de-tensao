@@ -3,10 +3,10 @@
 Projeto realizado no primeiro semestre do curso de Bacharelado em Ciências de Computação, para a disciplina de "Eletrônica Digital", ministrada pelo professor Eduardo do Valle Simões, da Universidade de São Paulo (USP) - Campus de São Carlos.
 
 ### Objetivo do Projeto
-O projeto consiste no desenvolvimento de uma fonte de tensão ajustável de 3V á 12V com capacidade de 100mA.
+O projeto consiste no desenvolvimento de uma fonte de tensão ajustável de 3V a 12V com capacidade de 100mA.
 
 ## Diagrama da Fonte de Tensão
-![circuit-20230714-1212](https://github.com/J-carvalho17/Fonte-de-tensao/assets/129186293/2813c8f2-4c24-4e74-9f50-1223d9e00817)
+![circuit_falstad](https://github.com/J-carvalho17/Fonte-de-tensao/blob/main/Imagens/circuit_falstad.png?raw=true)
 Link da fonte: https://tinyurl.com/2nysz2r7
 
 ## Componentes Utilizados
