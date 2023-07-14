@@ -39,6 +39,7 @@ Link da fonte: https://tinyurl.com/22uxj27e
 - Transistor: Amplifica ou interrompe a corrente elétrica, podendo funcionar como um amplificador ou interruptor.
 - Resistores: Limitam a passagem de corrente em locais específicos do circuito.
 - LED: Componente que emite luz quando uma corrente elétrica passa por ele, utilizado como indicador luminoso.
+- Fio macho-macho: Utilizado para conectar dispositivos eletrônicos com portas do mesmo tipo.
 
 ## Alunos
 
