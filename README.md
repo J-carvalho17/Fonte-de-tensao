@@ -41,12 +41,13 @@ Link da fonte: https://tinyurl.com/22uxj27e
 - LED: Componente que emite luz quando uma corrente elétrica passa por ele, utilizado como indicador luminoso.
 - Fio macho-macho: Utilizado para conectar dispositivos eletrônicos com portas do mesmo tipo.
 
+
+## Vídeo do Falstad
+
 ## Alunos
 
 - Julia de Almeida Carvalho - Nº USP: 13713184
 - Kaylaine Bessa da Silva - Nº USP:14747506
 - Giovanna Lopes de Andrade - Nº USP:14574772
-
-## Vídeo do Falstad
 
 
