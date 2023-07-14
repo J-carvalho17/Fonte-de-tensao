@@ -55,8 +55,9 @@ Link da fonte: https://tinyurl.com/22uxj27e
 
 ## Alunos
 
-- Julia de Almeida Carvalho - Nº USP: 13713184
-- Kaylaine Bessa da Silva - Nº USP:14747506
-- Giovanna Lopes de Andrade - Nº USP:14574772
-
+| Nome                      | Nº USP     |
+|---------------------------|------------|
+| Júlia de Almeida Carvalho | 13713184   |
+| Kaylaine Bessa da Silva   | 14747506   |
+| Giovanna Lopes de Andrade | 14574772   |
 
